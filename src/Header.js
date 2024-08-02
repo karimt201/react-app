@@ -6,6 +6,7 @@ function Header() {
                 <li>About</li>
                 <li>Contect</li>
                 <li>Career</li>
+                <img src={require('./cov.jpg')} alt="logo"/>
             </ul>
         </div>
     );
