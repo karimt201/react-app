@@ -5,7 +5,7 @@ function app() {
             <h2>course</h2>
             <h3>in React in this</h3>
         </div>
-    )
+    );
 };
 
 export default app ;
