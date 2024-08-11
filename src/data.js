@@ -1,17 +1,30 @@
 export const data = [
     {
-        title : 'god of war',
-        desc : ' game'
-    },{
-        title : 'pes',
-        desc : ' game 2'
+        img : require('./Assets/layout1.jpg'),
+        title : 'Dubai',
+        desc : 'in UAE',
+        rate : '5',
+        Price : '200$'
     },
     {
-        title : 'warzone',
-        desc : ' game 3'
+        img : require('./Assets/layout2.jpg'),
+        title : 'sydny',
+        desc : 'in Aus',
+        rate : '5',
+        Price : '300$'
     },
     {
-        title : 'spiderman',
-        desc : ' game 4'
-    }
-];
+        img : require('./Assets/layout3.jpg'),
+        title : 'Perth',
+        desc : 'in Aus',
+        rate : '5',
+        Price : '100$'
+    },
+    {
+        img : require('./Assets/layout4.jpg'),
+        title : 'Berlin',
+        desc : 'in Germany',
+        rate : '5',
+        Price : '1500$'
+    },
+]
