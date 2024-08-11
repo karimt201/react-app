@@ -1,6 +1,6 @@
 function Header() {
     return(
-        <div>  
+        <div>
             <ul>
                 <div>
                 <li className='li'>Home</li>
@@ -8,7 +8,7 @@ function Header() {
                 <li>Contect</li>
                 <li>Career</li>
                 </div>
-                <img src={require('./cov.jpg')}
+                <img src={require('../cov.jpg')}
                 alt="logo"
                 style={{width : '300px' , marginRight : '500px' , marginLeft : '400px'}}
                 
